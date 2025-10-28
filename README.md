@@ -19,6 +19,10 @@ I study at Astana IT University , major Software engineering, I know Java, Pytho
 * 🧠  I'm currently learning IOS development
 * 💬  Ask me about I am also a pizza maker at Dodo Pizza.
 
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
+
 <p align="left"> 
  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
