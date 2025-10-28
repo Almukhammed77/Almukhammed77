@@ -13,6 +13,8 @@ I study at Astana IT University , major Software engineering, I know Java, Pytho
 * 🧠  I'm currently learning IOS development
 * 💬  Ask me about I am also a pizza maker at Dodo Pizza.
 
+![snake](https://raw.githubusercontent.com/Almukhammed77/Almukhammed77/main/assets/github-snake.svg)
+
 
 <p align="left"> 
  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
